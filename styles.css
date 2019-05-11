@@ -88,3 +88,14 @@ section{
   margin-bottom: 70px
 }
 
+.parallax{
+  opacity: 0.5;
+}
+
+.parallax-container{
+  height: 100%;
+}
+
+.carousel{
+  height: 300px;
+}
