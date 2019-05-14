@@ -99,3 +99,7 @@ section{
 .carousel{
   height: 300px;
 }
+
+h3,h5{
+	color: yellow;
+}
